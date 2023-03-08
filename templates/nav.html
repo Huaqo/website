@@ -1,0 +1,55 @@
+<nav>
+    <section class="site-nav">
+        <section>
+            <h2><a href="{{ url_for("home.show_home")}}">~ / home</a></h2>
+        </section>
+        <section>
+            <h2>. stories</h2>
+            <ul class="nobull capital">
+                <li><a href="{{ url_for("22.show_22") }}">~ / 2022</a></li>
+                <li><a href="{{ url_for("21.show_21") }}">~ / 2021</a></li>
+                <li><a href="{{ url_for("20.show_20") }}">~ / 2020</a></li>
+                <li><a href="{{ url_for("19.show_19") }}">~ / 2019</a></li>
+                <li><a href="{{ url_for("18.show_18") }}">~ / 2018</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>. music</h2>
+            <ul class="nobull capital">
+                <li><a href="{{ url_for("hass.show_hass") }}">~ / hass</a></li>
+                <li><a href="{{ url_for("field2020.show_field2020") }}">~ / field_rec_20</a></li>
+                <li><a href="{{ url_for("polarity.show_polarity") }}">~ / polarity</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>. art</h2>
+            <ul class="nobull capital">
+                <li><a href="{{ url_for("drawings.show_drawings") }}">~ / drawings</a></li>
+                <li><a href="{{ url_for("generative.show_generative") }}">~ / generative</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>. dev</h2>
+            <ul class="nobull capital">
+                <li><a href="{{ url_for("data_is_beautiful.show_data_is_beautiful") }}">~ / data_is_beautiful</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>. contact</h2>
+            <ul class="nobull capital">
+                <li><a href="https://huaqo.bandcamp.com">~ / bandcamp</a></li>
+                <li><a href="https://github.com/Huaqo">~ / github</a></li>
+                <li><a href="https://www.instagram.com/huaqo/">~ / instagram</a>
+                <li><a href="mailto: mail@huaqo.com">~ / e_mail</a></li>
+            </ul>
+        </section>
+        <section>
+            <ul class="nobull capital">
+                <a href="{{ url_for("impressum.show_impressum") }}">[Impressum]</a>
+            </ul>
+            <ul>
+                <b>huaqo </b> © <span id="currentYear"></span>
+            </ul>
+        </section>
+    </section>
+</nav>
