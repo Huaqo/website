@@ -1,0 +1,148 @@
+html {
+  display: table;
+  margin: auto;
+}
+
+/* Header */
+header {
+  padding: 45px;
+}
+
+/* Navigation */
+nav {
+  padding: 45px;
+  float: left;
+}
+nav details summary {
+  margin-bottom: 30px;
+}
+nav .site-nav section {
+  line-height: 35px;
+  margin-bottom: 40px;
+}
+nav .site-nav section h2 {
+  margin: 20px 0;
+}
+nav .site-nav section ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Body */
+body {
+  background: #fff;
+  color: #000;
+  overflow-x: hidden;
+  font-family: sans-serif;
+  padding: 45px 0;
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+/* Footer */
+footer {
+  padding: 45px;
+}
+footer hr {
+  margin-bottom: 15px;
+}
+
+/* Lightbox */
+#lightbox {
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .9);
+  display: none;
+}
+
+#lightbox.active {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#lightbox img {
+  max-width: 90%;
+  max-height: 85%;
+  padding: 4px;
+}
+
+#lightbox button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 50px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  font-size: 24px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+#lightbox .prevButton {
+  left: 0;
+}
+
+#lightbox .nextButton {
+  right: 0;
+}
+
+/* Font */
+main {
+  padding: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+main img {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+main > * {
+  max-width: 600px;
+  margin-bottom: 30px;
+}
+main > h2 {
+  font-size: 80px;
+  text-transform: capitalize;
+}
+main > h3 {
+  font-size: 60px;
+  text-transform: capitalize;
+}
+main > h4 {
+  font-size: 90px;
+  text-transform: capitalize;
+}
+main p {
+  line-height: 35px;
+  font-size: 35px;
+  margin: 10px;
+}
+main > ul {
+  margin: 0;
+  padding: 0;
+  line-height: 25px;
+  font-size: 20px;
+
+}
+
+a {
+  color: darkslategrey;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+li {
+    list-style: <~ / >;
+}
