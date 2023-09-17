@@ -15,6 +15,7 @@
     />
     <link rel="stylesheet" href="assets/style.css" />
     <title></title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
     <header class="header">
@@ -311,4 +312,15 @@
         </nav>
     </div>
 </footer>
+    <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+    </script>
 </body>
