@@ -8,6 +8,7 @@ from jinja2 import Environment, FileSystemLoader
 SOURCE_DIR = "posts"
 TARGET_DIR = "build"
 ASSETS_DIR = "assets"
+ADMIN_DIR = "admin"
 TEMPLATE_DIR = "templates"
 
 env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
@@ -63,6 +64,23 @@ def copy_assets():
                 with open(dest_path, 'wb') as f:
                     f.write(content)
 
+def copy_admin():
+    target_path = os.path.join(TARGET_DIR, ADMIN_DIR)
+    ensure_dir(target_path)
+    for filename in os.listdir(ADMIN_DIR):
+        src_path = os.path.join(ADMIN_DIR, filename)
+        dest_path = os.path.join(target_path, filename)
+
+        if os.path.isdir(src_path):
+            if os.path.exists(dest_path):
+                shutil.rmtree(dest_path)
+            shutil.copytree(src_path, dest_path)
+        else:
+            with open(src_path, 'rb') as f:
+                content = f.read()
+                with open(dest_path, 'wb') as f:
+                    f.write(content)
+
 def generate_landing_page(pages):
     template = env.get_template('blog.html')
 
@@ -93,6 +111,7 @@ def build():
     
     process_content(all_pages_metadata)  # Pass the list to the function to populate it
     copy_assets()
+    copy_admin()
     
     # Generate the landing page
     generate_landing_page(all_pages_metadata)
