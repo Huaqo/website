@@ -7,8 +7,6 @@ tags: Photography
 banner: 
 ---
 
-
-
 ![image](https://ams03pap001files.storage.live.com/y4mKOUeSiJjnQmEEJuJ358icKKHbKQDmnmPKdiq_H5kpd-2C051NQguB2-LQOZ6nvVAd3Bhp1-Qw_GLyctai-ap3dCsabMX39vJ2IbtvTQiNsUbLGmPTvamSxIVV_7hhxIIQSWcNICrYdWPVb8JAcYHZW3ErPfvZqziIVS3SKVb9b0PDduUYxvkobxUvBefXfcc?width=3648&height=5472&cropmode=none)
 ![image](https://ams03pap001files.storage.live.com/y4muEUwZ5OJjIBwMdxfyDfNA53EGMI1TUhjJAZSmJbLQXH-Ui_Fadb4u3wwulW9iEsnTbBhvRwP_lxYasTAvu1oRFgeUD2GT5uaqALtGvKfhfSFgW3tCgDlffBSDXMtIQKp2FoJ9FbKs1riDz23-Vi_Zvh1g6usUiO6dqzc-YaZDeLRZfRpSTIn2v0-B3VR96yx?width=5472&height=3648&cropmode=none)
 ![image](https://ams03pap001files.storage.live.com/y4mBQ-RYFVxCLfoYJ4XDeoDXmutYbFYjtl9Ula3P6iauKykd1Bx7X4KDDj7U_muH-3rfByqq_9AkJ2S-k6SruySVj8eUBZcsvLpvZ7-9BNZbnYcF1Grbgmksmc9shEdw6Ta4vM5_iMdLrGq4Pht4IxTxWK9vVovXafbVTCLWApr0omov4pXohe2z3wUTXUkO7YW?width=5472&height=3648&cropmode=none)
