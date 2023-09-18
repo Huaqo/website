@@ -1,10 +1,8 @@
 ---
 title: "Berlin Street 2019"
 date: 2019-12-12
-draft: false
 description: "A collection of street photos i took over the year."
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4mpA7ss9hB8b9H_sjKKvqZgnbFgaGtsHn5iEjzuYBJ2yaei5cgwbbDvE5xun_Aq87ZsqMPwtN7BH0Btc5gp235s27gqwJuYGmWSOzxTOu0HpBeAbPDDy5ElhXkv1rCLCOVSFM9RATDR6a4KUYlEmq5gEsvjuhBqVrj6jfJKaEP2On8dvVe-gjyEvgirSyzCpXk?width=6000&height=4000&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mpA7ss9hB8b9H_sjKKvqZgnbFgaGtsHn5iEjzuYBJ2yaei5cgwbbDvE5xun_Aq87ZsqMPwtN7BH0Btc5gp235s27gqwJuYGmWSOzxTOu0HpBeAbPDDy5ElhXkv1rCLCOVSFM9RATDR6a4KUYlEmq5gEsvjuhBqVrj6jfJKaEP2On8dvVe-gjyEvgirSyzCpXk?width=6000&height=4000&cropmode=none)

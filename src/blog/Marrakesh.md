@@ -1,10 +1,8 @@
 ---
 title: "Marrakesh"
 date: 2019-01-12
-draft: false
 description: "A trip to Marrakesh in Marokko."
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4mYC0lA6stpG7gtrUsrMD-AEK8MThNXB72SJhbZgpBPXzfX-PYeq_pGoXeq42SP_ZbnUFV_51RzeCXr9R_bbnRx0Kk6Q1kfDmZNKdwdsW3l-NUnTk26qa8wyReFTN3AZ0jyUEQES_rR4tPQJVG7XMRyg08E8FMMViGdCMkz-wymP_GzoQebjv5ONHRaXSSNj9v?width=6000&height=4000&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mYC0lA6stpG7gtrUsrMD-AEK8MThNXB72SJhbZgpBPXzfX-PYeq_pGoXeq42SP_ZbnUFV_51RzeCXr9R_bbnRx0Kk6Q1kfDmZNKdwdsW3l-NUnTk26qa8wyReFTN3AZ0jyUEQES_rR4tPQJVG7XMRyg08E8FMMViGdCMkz-wymP_GzoQebjv5ONHRaXSSNj9v?width=6000&height=4000&cropmode=none)

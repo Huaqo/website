@@ -1,7 +1,6 @@
 ---
 title: "Polarity"
 date: 2020-01-22
-draft: false
 description: ""
 tags: Music
 ---

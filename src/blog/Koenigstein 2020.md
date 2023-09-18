@@ -1,10 +1,8 @@
 ---
 title: "Koenigstein 2020"
 date: 2020-09-12
-draft: false
 description: "A trip to Königstein and Sächsische Schweiz."
 tags: Photography
-banner: 
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mLsxOsbU2Msf0xUX8btTPkWA2xdYoiIjLy7ayYNXOXAQwO-lJKVxLNk4UPXKfw_1OmP5cZX9HZv3dUVtnqyCIlhnm_0KyBvqbqhFb5vLQk7Oc9p12lb2SQ4-bXKpzXZ18cQT2ER4j25b4kWZahLV2MXta6qWLzC6W7104EJ5OStaDrS9q-3B4806PKiZQk_i1?width=4000&height=6000&cropmode=none)

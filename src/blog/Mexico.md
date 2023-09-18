@@ -1,10 +1,8 @@
 ---
 title: "Mexico"
 date: 2021-10-01
-draft: false
 description: "A month in Mexico. Recorded with the Canon AE-1 and various analog films."
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4mJqCteFt-8Djclmi8INGErP-DSogcBxiKl8co5GvaZsh6WG76a_u1hOlipaY4cZsD7OXnwwt2iq9NU6ZhZFWBHradmQMm2NYUo4poMZOXTl7nszlwsgPNBAEVMK65Pf2ffmtULm_xZZuWERhE7J95YIEU7LZ8ZfLoomlnMVz6XKSyJ5CcCuGG8z4gs37CepHF?width=3224&height=2161&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mJqCteFt-8Djclmi8INGErP-DSogcBxiKl8co5GvaZsh6WG76a_u1hOlipaY4cZsD7OXnwwt2iq9NU6ZhZFWBHradmQMm2NYUo4poMZOXTl7nszlwsgPNBAEVMK65Pf2ffmtULm_xZZuWERhE7J95YIEU7LZ8ZfLoomlnMVz6XKSyJ5CcCuGG8z4gs37CepHF?width=3224&height=2161&cropmode=none)

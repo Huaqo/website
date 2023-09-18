@@ -1,7 +1,6 @@
 ---
 title: "Field Recordings 2020"
 date: 2020-12-13
-draft: false
 description: ""
 tags: Music
 ---

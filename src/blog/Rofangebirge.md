@@ -1,10 +1,8 @@
 ---
 title: "Rofangebirge"
 date: 2019-09-12
-draft: false
 description: "A trip to the Rofangebirge near the Achensee."
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4mUpO1n00P4CaBMl22A5xgYfbe3--wJ5P5AH2SRy0BHz85L_pkxzeWWFFyvtvoharst23y_O0lbNb4zZCjoHc2zxPt97G_B5ahiA4bRbCUiux1-6Kg-rC9bq_4ZkyMEjri1ECq8JnlihRftILJdXr3cxolQwq-ziMKjfH4Q2auSXz-lr6HWwwY2-Fgr16cf9MC?width=5724&height=3816&cropmode=none
 ---
 
 

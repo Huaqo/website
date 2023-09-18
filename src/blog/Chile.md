@@ -1,10 +1,8 @@
 ---
 title: "Chile"
 date: 2018-06-12
-draft: false
 description: "A collection of photos of our travels in Chile in 2018. We stayed there for a few months. Mainly on Chiloe in the South."
 tags: Photography
-banner: 
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mBDg9THl3ZcWf50JA2zRFFveHcWXENdgsd_4604jGge6xxWb-Nvhsh-FNFkbJnJKmJTyRQUrTGbxZR6s4vosI8zUKVqmVSWZuKcktDNhU6xWN0aXW8xZp7HTCea17otSElcgPFiF3Z05nU8rnUTRRkUiYa8vi1FrsxTM6Uxp4ahTUJBKJqztV3i5cdGfD9yq4?width=1563&height=2345&cropmode=none)

@@ -1,11 +1,8 @@
 ---
 title: "Drachenberg"
 date: 2021-11-28
-draft: false
-description: "Photowalk with Ferenc Bodor.
-"
+description: "Photowalk with Ferenc Bodor."
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4my2Xqq2wI1n3C0QUByqdjewQoJwvJu8RTDjBLwfg0zf7HTNdtiPLq5sJj59OV-SyfuYGksK4H9dIaImlkrrdXjK0hsfxYb3bn_uQH37A4oQp_-SmBXw7_AYM_Fu64ev-sqQjgF7_jXxmrl36ou97GrBX2c-UXTtLWVmPC9Ar1XtuVKuCG3uIQBNYDYaguSJQj?width=5472&height=3648&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4my2Xqq2wI1n3C0QUByqdjewQoJwvJu8RTDjBLwfg0zf7HTNdtiPLq5sJj59OV-SyfuYGksK4H9dIaImlkrrdXjK0hsfxYb3bn_uQH37A4oQp_-SmBXw7_AYM_Fu64ev-sqQjgF7_jXxmrl36ou97GrBX2c-UXTtLWVmPC9Ar1XtuVKuCG3uIQBNYDYaguSJQj?width=5472&height=3648&cropmode=none)

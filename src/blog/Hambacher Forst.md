@@ -1,10 +1,8 @@
 ---
 title: "Hambacher Forst"
 date: 2022-04-16
-draft: false
 description: ""
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4mgtd7rDWc5GDWEN3B69GRMGSkOvEOWQOJ1RfXJWSQFIsgp_O86A3BzYFgQzdJnvEf55Lx5dLklWDosY8zxtyy2ra4yARf8J2K2A7woQhkcbRCI1qFeBFRudq3JKuHgztjiQyPVKR6UTZd_eRaNzpwXiytMuXXUhkXuoeZwsq_CUYIcAGNRnMQHVl-k_-NsAWj?width=5472&height=3648&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mgtd7rDWc5GDWEN3B69GRMGSkOvEOWQOJ1RfXJWSQFIsgp_O86A3BzYFgQzdJnvEf55Lx5dLklWDosY8zxtyy2ra4yARf8J2K2A7woQhkcbRCI1qFeBFRudq3JKuHgztjiQyPVKR6UTZd_eRaNzpwXiytMuXXUhkXuoeZwsq_CUYIcAGNRnMQHVl-k_-NsAWj?width=5472&height=3648&cropmode=none)

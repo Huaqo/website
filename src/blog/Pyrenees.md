@@ -1,10 +1,8 @@
 ---
 title: "Pyrenees"
 date: 2022-09-11
-draft: false
 description: "A geological field trip through the Pyrenees from source to sink."
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4mWkWsqu5O5VFcCKKTMKqA-NwY8h0t9UEVCdO4kScKhRHKnW-uI5wzCaY2U550-_lfUc-TWUPxpWlBWIoRp-d7lXP2z-8xOGkat8eMpuTXYwMT5FN78WQSaAr2vWnLipfwRSWuDRxiep7hLkjCHEUzbdoLLAJ-rwB2on7-PPyOmrnrP3n2_mUjpdIc4-PhNZ_o?width=5472&height=3648&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mWkWsqu5O5VFcCKKTMKqA-NwY8h0t9UEVCdO4kScKhRHKnW-uI5wzCaY2U550-_lfUc-TWUPxpWlBWIoRp-d7lXP2z-8xOGkat8eMpuTXYwMT5FN78WQSaAr2vWnLipfwRSWuDRxiep7hLkjCHEUzbdoLLAJ-rwB2on7-PPyOmrnrP3n2_mUjpdIc4-PhNZ_o?width=5472&height=3648&cropmode=none)

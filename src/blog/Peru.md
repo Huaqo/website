@@ -1,10 +1,8 @@
 ---
 title: "Peru"
 date: 2018-05-12
-draft: false
 description: "A collection of photos of our travels in Peru in 2018. We stayed there for a month. Mainly in the Mountain areas."
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4mf-I0WnBn5VyEmvP2sgQrtLhhS3bKBNyJ8hJsav4yywmfubrJeuFllEqwmUUxUYylau-YqKphu40FZlq-Zi7Mkup-SZnVrvYCtVuSc7h1pfooNJdGMHYbMfMRgFR1St0abszf_BrWzCq4LPv8r5-vHpv5V_ICGuFfH0sUC4Hn78ERS9QPcvtJXXEtjwyvpDT4?width=5998&height=3999&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mf-I0WnBn5VyEmvP2sgQrtLhhS3bKBNyJ8hJsav4yywmfubrJeuFllEqwmUUxUYylau-YqKphu40FZlq-Zi7Mkup-SZnVrvYCtVuSc7h1pfooNJdGMHYbMfMRgFR1St0abszf_BrWzCq4LPv8r5-vHpv5V_ICGuFfH0sUC4Hn78ERS9QPcvtJXXEtjwyvpDT4?width=5998&height=3999&cropmode=none)

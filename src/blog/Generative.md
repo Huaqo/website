@@ -1,11 +1,8 @@
 ---
 title: "Generative"
 date: 2020-04-26
-draft: false
-description: "made with Processing and Python.
-"
+description: "made with Processing and Python."
 tags: Art
-banner: assets/../..assets/images/Trump.gif
 ---
 
 <img src="../assets/images/Trump.gif">

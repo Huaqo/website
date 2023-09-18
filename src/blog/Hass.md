@@ -1,7 +1,6 @@
 ---
 title: "Hass"
 date: 2023-01-18
-draft: false
 description: ""
 tags: music
 ---

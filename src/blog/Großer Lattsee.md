@@ -1,10 +1,8 @@
 ---
 title: "Großer Lattsee"
 date: 2021-08-14
-draft: false
 description: "Camping at a lake in Brandenburg"
 tags: Photography
-banner: 
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mvgZBlpciYDu-9z1FJQuVaD-X1weSg8s1j9a0uR_fRJlOxx_HRKUFG3aVUdK50CtL2SJL2TSu_YA5PPhOKTGdUkzHS9b6qHJ8gvZCfaXLkxy6KEGJipt6eieaxwQNe_4WT-YvcgxJgEyDKlcbwotmg8_HxKuc4b7VjitTRrY0PA78KngcATBBUWJS2CaT4Oro?width=3648&height=5472&cropmode=none)

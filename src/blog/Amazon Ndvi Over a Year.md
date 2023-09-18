@@ -1,7 +1,6 @@
 ---
 title: "Amazon Ndvi Over a Year"
 date: 2022-11-17
-draft: false
 description: "Amazon vegetation index (NDVI) over a year from 2021 - 2022."
 tags: Science
 ---

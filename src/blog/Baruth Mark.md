@@ -1,10 +1,8 @@
 ---
 title: "Baruth Mark"
 date: 2021-10-24
-draft: false
 description: "Autumn impressions."
 tags: Photography
-banner: 
 ---
 
 ![image](https://ams03pap001files.storage.live.com/y4mKOUeSiJjnQmEEJuJ358icKKHbKQDmnmPKdiq_H5kpd-2C051NQguB2-LQOZ6nvVAd3Bhp1-Qw_GLyctai-ap3dCsabMX39vJ2IbtvTQiNsUbLGmPTvamSxIVV_7hhxIIQSWcNICrYdWPVb8JAcYHZW3ErPfvZqziIVS3SKVb9b0PDduUYxvkobxUvBefXfcc?width=3648&height=5472&cropmode=none)

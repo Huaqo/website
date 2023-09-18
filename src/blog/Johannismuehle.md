@@ -1,10 +1,8 @@
 ---
 title: "Johannismuehle"
 date: 2021-10-24
-draft: false
 description: "A visit to the Johannismühle Wildlife Park, south of Berlin."
 tags: Photography
-banner: 
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mSwXPE67AP2JdqPf4TMJyePTcySJOBI1BHrlgruFb9X0doSnShRaOX89c515yCzkhf_WsTRYJqSS0U8L9UKcTiZkF-HRRGdYKqGYcIFdXMJFlBSHZqV6oRAvnvU4HJTY9WdZN0UImK8Gn9ELQvgClOZVYfKOjAwXu49IJmmOOPHQsZW6-68sS79Hb8u9yWxsC?width=3216&height=4516&cropmode=none)

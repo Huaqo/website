@@ -1,10 +1,8 @@
 ---
 title: "Großtrappen"
 date: 2022-06-11
-draft: false
 description: "On the look for the Großtrappen in a nature reserve in Brandenburg with Becca and PG sometime in the spring."
 tags: Photography
-banner: 
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mpbC3gmVtfTstRNMpL-87rkgKRd2QQ5bH304z47iPbkWj4AAdE0i2Hyq5UQCzV-pWwnHnd76iEADNNzR2fKCKTvY3V2twtnPT13BT--LGVc9TwFyRINyXu0JTH1sdTaaDbEsCIMRwTcUDk51p6mIxlDgd6aEh9-B0D_Zm9DNVOPTD3R4Kp-twOlko0ZqLCOhp?width=5472&height=2773&cropmode=none)

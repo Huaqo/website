@@ -1,10 +1,8 @@
 ---
 title: "Berlin Street 2020"
 date: 2020-03-12
-draft: false
 description: "A collection of street photos i took over the year."
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4muNxr0evD8rb8RbVs14E0WztazOZg8q0zMnEGNyDBSudk0QE_s556YJPWL8EHJvk2SmgRRmUyGUbNv8sS6S228Nu9YyuUKBoI_K7QsSvKR9txdCTZ6vJgN_ATdQEquYo1LtVJi5I9nFIuhS33ZKrD8IlEECIAcqwEym4z3fvDGRWiBwkAvR7Aej6vTKZTxhbo?width=4948&height=3383&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4muNxr0evD8rb8RbVs14E0WztazOZg8q0zMnEGNyDBSudk0QE_s556YJPWL8EHJvk2SmgRRmUyGUbNv8sS6S228Nu9YyuUKBoI_K7QsSvKR9txdCTZ6vJgN_ATdQEquYo1LtVJi5I9nFIuhS33ZKrD8IlEECIAcqwEym4z3fvDGRWiBwkAvR7Aej6vTKZTxhbo?width=4948&height=3383&cropmode=none)

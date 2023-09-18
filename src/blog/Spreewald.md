@@ -2,7 +2,6 @@
 title: "Spreewald"
 date: 2023-05-18
 tags: Photography
-banner: https://ams03pap001files.storage.live.com/y4mDVH69OuyR4l6UzW34kpM_Z4eEeKinT5pbExE8Fg9fEQAsKbE48xB9X2XXlHE3NpiFBbmDA1EKNJd8MkEO0YWAVmqvXR-Tz-nxgUoo19Ob15yyZ5P9TwxX_2-zjZC-9UYAODObcd4SJqTNwDUdRPRQoTv8K3MlXAWQz7sAsEnH8vKO0j7DolQdtptNMpW5LJl?width=5472&height=3648&cropmode=none
 ---
 
 ![](https://ams03pap001files.storage.live.com/y4mDVH69OuyR4l6UzW34kpM_Z4eEeKinT5pbExE8Fg9fEQAsKbE48xB9X2XXlHE3NpiFBbmDA1EKNJd8MkEO0YWAVmqvXR-Tz-nxgUoo19Ob15yyZ5P9TwxX_2-zjZC-9UYAODObcd4SJqTNwDUdRPRQoTv8K3MlXAWQz7sAsEnH8vKO0j7DolQdtptNMpW5LJl?width=5472&height=3648&cropmode=none) 
