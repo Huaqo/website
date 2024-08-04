@@ -61,7 +61,7 @@ theme:
   favicon: ../assets/images/favicon-32x32.png
 
 nav:
-  - DevOps:
+  - DevTools:
     - Git.md
     - Homebrew.md
     - Neovim.md
@@ -76,7 +76,7 @@ nav:
       - raylib.md
     - Python:
       - pygame.md
-  - GIS:
+  - GeoDev:
     - Python:
       - PyQGIS.md
     - R:
@@ -92,7 +92,7 @@ nav:
     - Javascript.md
     - Python.md
     - R.md 
-  - Web:
+  - WebDev:
     - Flask:
       - Flask.md
       - Jinja2.md
@@ -101,7 +101,7 @@ nav:
       - SQLite.md
       - SQLite3.md
       - Postgresql.md
-    - CLI Tools:
+    - Tools:
       - Http-server.md
   - Writing:
     - Markdown.md
