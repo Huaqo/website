@@ -4,8 +4,6 @@ site_url: https://joaquingottlebe.com
 repo_url: https://github.com/Huaqo/website
 repo_name: huaqo/website
 edit_uri: edit/main/src/docs/docs/
-extra:
-  homepage: https://joaquingottlebe.com
 theme:
   name: material
   features:
