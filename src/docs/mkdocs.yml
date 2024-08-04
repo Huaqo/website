@@ -1,0 +1,106 @@
+site_name: Docs
+site_dir: ../../dist/docs/
+theme:
+  name: material
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+
+nav:
+  - DevOps:
+    - Git.md
+    - Homebrew.md
+    - Neovim.md
+    - Tmux.md
+    - Tree.md
+    - Python:
+      - Pip.md
+      - venv.md
+  - GameDev:
+    - C/C++:
+      - raygui.md
+      - raylib.md
+    - Python:
+      - pygame.md
+  - GIS:
+    - Python:
+      - PyQGIS.md
+    - R:
+      - gdal.md
+      - orfeo_toolbox.md
+      - rstoolbox.md
+      - terra.md
+  - Languages:
+    - C.md
+    - C++.md
+    - CSS.md
+    - HTML.md
+    - Javascript.md
+    - Python.md
+    - R.md 
+  - Web:
+    - Flask:
+      - Flask.md
+      - Jinja2.md
+      - json.md
+    - SQL:
+      - SQLite.md
+      - SQLite3.md
+      - Postgresql.md
+    - CLI Tools:
+      - Http-server.md
+  - Writing:
+    - Markdown.md
+    - Latex.md
+    - pandoc.md
+    - Mermaid.md
