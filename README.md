@@ -4,3 +4,15 @@
 # joaquingottlebe.com
 
 This is my personal website. It's built with my custom static site generator.
+
+# Build
+
+```bash
+python3 build.py && (cd src/docs && mkdocs build && cd -)
+```
+
+# Serve docs
+
+```bash
+(cd src/docs && mkdocs serve && cd -)
+```

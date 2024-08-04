@@ -1,5 +1,11 @@
 site_name: Docs
 site_dir: ../../dist/docs/
+site_url: https://joaquingottlebe.com
+repo_url: https://github.com/Huaqo/website
+repo_name: huaqo/website
+edit_uri: edit/main/src/docs/docs/
+extra:
+  homepage: https://joaquingottlebe.com
 theme:
   name: material
   features:
@@ -8,21 +14,21 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
-    # - content.code.select
-    # - content.footnote.tooltips
-    # - content.tabs.link
+    - content.code.select
+    - content.footnote.tooltips
+    - content.tabs.link
     - content.tooltips
-    # - header.autohide
-    # - navigation.expand
+    - header.autohide
+    - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     # - navigation.prune
     - navigation.sections
     - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -50,11 +56,9 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
   font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
+    text: Fira Code
+    code: Fira Code
+  favicon: ../assets/images/favicon-32x32.png
 
 nav:
   - DevOps:
