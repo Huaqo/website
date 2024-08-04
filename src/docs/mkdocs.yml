@@ -59,8 +59,6 @@ theme:
   favicon: ../assets/images/favicon-32x32.png
 
 nav:
-  - Portfolio: https://joaquingottlebe.com/
-  - Blog: https://joaquingottlebe.com/blog/
   - DevTools:
     - Git.md
     - Homebrew.md
