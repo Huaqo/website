@@ -70,6 +70,7 @@ markdown_extensions:
 nav:
   - DevTools:
     - Git.md
+    - github_actions.md
     - Homebrew.md
     - Neovim.md
     - Tmux.md
@@ -84,11 +85,16 @@ nav:
     - Python:
       - pygame.md
   - GeoDev:
+    - JavaScript:
+      - leaflet.md
     - Python:
+      - folium.md
+      - geopandas.md
       - PyQGIS.md
     - R:
       - gdal.md
       - orfeo_toolbox.md
+      - random_forest.md
       - rstoolbox.md
       - terra.md
   - Languages:
@@ -98,7 +104,13 @@ nav:
     - HTML.md
     - Javascript.md
     - Python.md
-    - R.md 
+    - R.md
+  - SciDev:
+    - matplotlib.md
+    - numpy.md
+    - pandas.md
+    - scipy.md
+    - seaborn.md
   - WebDev:
     - Python:
       - Flask.md
@@ -112,7 +124,7 @@ nav:
       - Http-server.md
   - Writing:
     - Latex.md
-    - Markdown.md
+    - markdown.md
     - Mermaid.md
     - pandoc.md
     
