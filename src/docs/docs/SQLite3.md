@@ -1,5 +1,5 @@
 
-# SQLite3 module in Python
+# SQLite3
 
 ## Getting Started
 

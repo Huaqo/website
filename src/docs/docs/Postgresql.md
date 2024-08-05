@@ -1,5 +1,5 @@
 
-# PostgreSQL
+# PostgreSQL CLI
 
 ## Getting Started
 
