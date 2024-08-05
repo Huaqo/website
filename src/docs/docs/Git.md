@@ -57,19 +57,6 @@ git push <remote> <branch>   # Push changes to a remote branch
 git remote rm <name>         # Remove a remote repository
 ```
 
-## Stashing
-
-```bash
-git stash                    # Stash changes in a dirty working directory
-git stash list               # List stashed changes
-git stash apply              # Apply the latest stash
-git stash apply stash@{n}    # Apply a specific stash
-git stash drop               # Drop the latest stash
-git stash drop stash@{n}     # Drop a specific stash
-git stash pop                # Apply and drop the latest stash
-git stash pop stash@{n}      # Apply and drop a specific stash
-```
-
 ## Undoing Changes
 
 ```bash
@@ -78,26 +65,4 @@ git reset <file>             # Unstage a file
 git reset --hard             # Reset the working directory and staging area to the last commit
 git reset --hard <commit>    # Reset the working directory and staging area to a specific commit
 git revert <commit>          # Create a new commit that undoes a specific commit
-```
-
-## Tagging
-
-```bash
-git tag                      # List tags
-git tag <tag>                # Create a new tag
-git tag -a <tag> -m "message"  # Create an annotated tag
-git show <tag>               # Show details of a tag
-git push <remote> <tag>      # Push a tag to a remote repository
-git push <remote> --tags     # Push all tags to a remote repository
-git tag -d <tag>             # Delete a tag
-git push <remote> :refs/tags/<tag>  # Delete a remote tag
-```
-
-## Aliases
-
-```bash
-git config --global alias.co checkout     # Create an alias for checkout
-git config --global alias.br branch       # Create an alias for branch
-git config --global alias.ci commit       # Create an alias for commit
-git config --global alias.st status       # Create an alias for status
 ```

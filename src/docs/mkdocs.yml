@@ -41,15 +41,15 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: black
+      accent: teal
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: indigo
+      accent: teal
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
@@ -57,6 +57,15 @@ theme:
     text: Fira Code
     code: Fira Code
   favicon: ../assets/images/favicon-32x32.png
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 nav:
   - DevTools:
@@ -102,7 +111,8 @@ nav:
     - Tools:
       - Http-server.md
   - Writing:
-    - Markdown.md
     - Latex.md
-    - pandoc.md
+    - Markdown.md
     - Mermaid.md
+    - pandoc.md
+    

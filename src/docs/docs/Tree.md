@@ -89,21 +89,6 @@ tree -p
 tree -v
 ```
 
-## Example Commands
-
-```bash
-# Display the tree structure of the current directory, including hidden files, with human-readable sizes
-tree -a -h
-
-# Display only directories, with a depth of 2
-tree -d -L 2
-
-# Display the tree structure of a specific directory, sorted by modification time, with full paths
-tree -t -f /path/to/directory
-
-# Display the tree structure of the current directory, with ANSI colorization, and save to a file
-tree -C > tree_structure.txt
-```
 
 ## Help
 

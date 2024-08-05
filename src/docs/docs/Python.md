@@ -1,5 +1,5 @@
 
-# Python Syntax
+# Python
 
 ## Basics
 
