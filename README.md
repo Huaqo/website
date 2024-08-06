@@ -11,7 +11,7 @@ This is my personal website. It's built with my custom static site generator.
 python3 build.py && (cd src/docs && mkdocs build && cd -)
 ```
 
-# Serve docs
+# Serve
 
 ```bash
 (cd src/docs && mkdocs serve && cd -)
