@@ -4,6 +4,7 @@ site_url: https://joaquingottlebe.com
 repo_url: https://github.com/Huaqo/website
 repo_name: huaqo/website
 edit_uri: edit/main/src/docs/docs/
+copyright: Copyright &copy; 2024 Joaquin Gottlebe
 theme:
   name: material
   custom_dir: overrides
