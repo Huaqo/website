@@ -18,7 +18,21 @@ Enter R mode with
 R
 ```
 
-## Execute scripts
+## Dependency management
+
+List all installed:
+
+```r
+installed.packages()
+```
+
+Install:
+
+```r
+install.packages(c("ggplot2", "dplyr", "tidyr"))
+```
+
+## Run
 
 ```r
 Rscript script.R
