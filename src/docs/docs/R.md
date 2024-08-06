@@ -3,7 +3,7 @@
 
 ## Installation
 
-[Download and install](https://cran.uni-muenster.de/) 
+[Download and install](https://cran.uni-muenster.de/bin/macosx/)
 
 ## Basic Syntax
 
