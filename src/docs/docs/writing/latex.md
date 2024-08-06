@@ -4,6 +4,7 @@
 ## Awesome links
 
 - [Overleaf ->](https://www.overleaf.com/): A collaborative, online LaTeX editor.
+- [ModernCV ->](https://github.com/xdanaux/moderncv): CV Template
 
 
 ## Document Structure
