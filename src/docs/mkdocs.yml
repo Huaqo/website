@@ -82,6 +82,8 @@ nav:
     - C/C++:
       - raygui.md
       - raylib.md
+    - Godot:
+      - gdscript.md
     - Python:
       - pygame.md
   - GeoDev:
