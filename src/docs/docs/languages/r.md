@@ -12,10 +12,16 @@
 
 ## CLI
 
-Enter R mode with
+Enter R mode with:
 
 ```bash
 R
+```
+
+Run scripts:
+
+```r
+Rscript script.R
 ```
 
 ## Dependency management
@@ -30,12 +36,6 @@ Install:
 
 ```r
 install.packages(c("ggplot2", "dplyr", "tidyr"))
-```
-
-## Run
-
-```r
-Rscript script.R
 ```
 
 ## Basic Syntax
