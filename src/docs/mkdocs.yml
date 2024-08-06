@@ -6,8 +6,9 @@ repo_name: huaqo/website
 edit_uri: edit/main/src/docs/docs/
 theme:
   name: material
+  custom_dir: overrides
   features:
-    - announce.dismiss
+    #- announce.dismiss
     - content.action.edit
     - content.action.view
     - content.code.annotate
