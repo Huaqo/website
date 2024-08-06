@@ -69,64 +69,69 @@ markdown_extensions:
 
 nav:
   - DevTools:
-    - Git.md
-    - github_actions.md
-    - Homebrew.md
-    - Neovim.md
-    - Tmux.md
-    - Tree.md
+    - devtools/index.md
+    - devtools/git.md
+    - devtools/github_actions.md
+    - devtools/homebrew.md
+    - devtools/neovim.md
+    - devtools/tmux.md
+    - devtools/tree.md
     - Python:
-      - Pip.md
-      - venv.md
+      - devtools/pip.md
+      - devtools/venv.md
   - GameDev:
+    - gamedev/index.md
     - C/C++:
-      - raygui.md
-      - raylib.md
+      - gamedev/raygui.md
+      - gamedev/raylib.md
     - Godot:
-      - gdscript.md
+      - gamedev/gdscript.md
     - Python:
-      - pygame.md
+      - gamedev/pygame.md
   - GeoDev:
+    - geodev/index.md
     - JavaScript:
-      - leaflet.md
+      - geodev/leaflet.md
     - Python:
-      - folium.md
-      - geopandas.md
-      - PyQGIS.md
+      - geodev/folium.md
+      - geodev/geopandas.md
+      - geodev/pyqgis.md
     - R:
-      - gdal.md
-      - orfeo_toolbox.md
-      - random_forest.md
-      - rstoolbox.md
-      - terra.md
+      - geodev/orfeo_toolbox.md
+      - geodev/random_forest.md
+      - geodev/rstoolbox.md
+      - geodev/terra.md
   - Languages:
-    - C.md
-    - C++.md
-    - CSS.md
-    - HTML.md
-    - Javascript.md
-    - Python.md
-    - R.md
+    - languages/index.md
+    - languages/c.md
+    - languages/cpp.md
+    - languages/css.md
+    - languages/html.md
+    - languages/javascript.md
+    - languages/python.md
+    - languages/r.md
   - SciDev:
-    - matplotlib.md
-    - numpy.md
-    - pandas.md
-    - scipy.md
-    - seaborn.md
+    - scidev/index.md
+    - scidev/matplotlib.md
+    - scidev/numpy.md
+    - scidev/pandas.md
+    - scidev/scipy.md
+    - scidev/seaborn.md
   - WebDev:
+    - webdev/index.md
     - Python:
-      - Flask.md
-      - Jinja2.md
-      - json.md
+      - webdev/flask.md
+      - webdev/jinja.md
+      - webdev/json.md
     - SQL:
-      - SQLite.md
-      - SQLite3.md
-      - Postgresql.md
+      - webdev/sqlite.md
+      - webdev/sqlite3.md
+      - webdev/postgresql.md
     - Tools:
-      - Http-server.md
+      - webdev/http-server.md
   - Writing:
-    - Latex.md
-    - markdown.md
-    - Mermaid.md
-    - pandoc.md
-    
+    - writing/index.md
+    - writing/latex.md
+    - writing/markdown.md
+    - writing/mermaid.md
+    - writing/pandoc.md
