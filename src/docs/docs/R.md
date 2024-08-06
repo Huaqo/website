@@ -1,6 +1,10 @@
 
 # R
 
+## Installation
+
+[Download and install](https://cran.uni-muenster.de/) 
+
 ## Basic Syntax
 
 ### Variables
