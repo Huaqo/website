@@ -10,6 +10,20 @@
     - [rstoolbox](../geodev/rstoolbox.md)
     - [terra](../geodev/terra.md)
 
+## CLI
+
+Enter R mode with
+
+```bash
+R
+```
+
+## Execute scripts
+
+```r
+Rscript script.R
+```
+
 ## Basic Syntax
 
 ### Variables
