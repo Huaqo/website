@@ -70,46 +70,53 @@ markdown_extensions:
 
 nav:
   - index.md
-  - c.md
-  - cpp.md
-  - css.md
-  - flask.md
-  - folium.md
-  - gdscript.md
-  - geopandas.md
-  - git.md
-  - github_actions.md
-  - homebrew.md
-  - html.md
-  - http-server.md
-  - javascript.md
-  - jinja.md
-  - json.md
-  - latex.md
-  - leaflet.md
-  - markdown.md
-  - matplotlib.md
-  - mermaid.md
-  - neovim.md
-  - numpy.md
-  - orfeo_toolbox.md
-  - pandas.md
-  - pandoc.md
-  - pip.md
-  - postgresql.md
-  - pyqgis.md
-  - pygame.md
-  - python.md
-  - random_forest.md
-  - raygui.md
-  - raylib.md
-  - r.md
-  - rstoolbox.md
-  - scipy.md
-  - seaborn.md
-  - sqlite.md
-  - sqlite3.md
-  - terra.md
-  - tmux.md
-  - tree.md
-  - venv.md
+  - Tools:
+    - git.md
+    - github_actions.md
+    - homebrew.md
+    - http-server.md
+    - neovim.md
+    - pip.md
+    - tmux.md
+    - tree.md
+    - venv.md
+  - Game developement:
+    - gdscript.md
+    - pygame.md
+    - raygui.md
+    - raylib.md
+  - Geographic development:
+    - folium.md
+    - geopandas.md
+    - leaflet.md
+    - orfeo_toolbox.md
+    - pyqgis.md
+    - random_forest.md
+    - rstoolbox.md
+    - terra.md
+  - Programming languages:
+    - c.md
+    - cpp.md
+    - css.md
+    - html.md
+    - javascript.md
+    - python.md
+    - r.md
+  - Scientific development:
+    - matplotlib.md
+    - numpy.md
+    - pandas.md
+    - scipy.md
+    - seaborn.md
+  - Web development:
+    - flask.md
+    - jinja.md
+    - json.md
+    - postgresql.md
+    - sqlite.md
+    - sqlite3.md
+  - Technical writing:
+    - latex.md
+    - markdown.md
+    - mermaid.md
+    - pandoc.md
