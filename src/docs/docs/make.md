@@ -1,5 +1,5 @@
 
-# Makefile Cheat Sheet
+# Make
 
 For more details, refer to the [GNU Make documentation](https://www.gnu.org/software/make/manual/make.html).
 
