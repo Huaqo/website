@@ -80,6 +80,7 @@ nav:
     - tmux.md
     - tree.md
     - venv.md
+    - zsh.md
   - Games:
     - gdscript.md
     - pygame.md
