@@ -75,6 +75,7 @@ nav:
     - github_actions.md
     - homebrew.md
     - http-server.md
+    - make.md
     - neovim.md
     - pip.md
     - tmux.md
