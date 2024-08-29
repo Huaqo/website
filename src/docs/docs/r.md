@@ -233,6 +233,31 @@ ggplot(data = df, aes(x = Name, y = Age)) +
   geom_bar(stat = "identity")
 ```
 
+### Saving a Plots to PNG
+
+To save a plot as a PNG file in R, you can use the png() function to open a PNG graphics device, and dev.off() to close the device after plotting. Below is a brief example:
+
+```r
+# Open a PNG device
+png("plot_output.png", width=800, height=600)
+
+# Generate the plot
+plot(data.df$wavelength, 
+     mean, 
+     xlab="Wellenlaenge (nm)", ylab="Reflexion (%)", 
+     type="l", col=col1, lwd=3, 
+     ylim= c(0,1), xlim=c(400,1050),
+     main=paste("Baum ", baum.id, ", Provenienz ", prov, sep=""))
+lines(data.df$wavelength, unlist(data.df[white]), type="l", col=col2, lwd=3)
+
+# Add a legend
+legend("bottomright", legend=c(paste("Baum ", baum.id, ", Provenienz ", prov, sep=""), "Referenz"),
+       text.col=c(col1, col2), pch=c("-"), col=c(col1, col2), lwd=3)
+
+# Close the PNG device
+dev.off()
+```
+
 ## Reading and Writing Data
 
 ### CSV Files
